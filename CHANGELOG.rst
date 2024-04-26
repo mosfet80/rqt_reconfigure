@@ -2,6 +2,9 @@
 Changelog for package rqt_reconfigure
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.6.2 (2024-02-07)
 ------------------
 * Explicitly add a pytest test dependency. (`#141 <https://github.com/ros-visualization/rqt_reconfigure/issues/141>`_)
